@@ -1,7 +1,3 @@
-import time
-import argparse
-#import numpy as np
-#import pyvisa
 from powersupply import Powersupply
 from measurement import Measurement
 
